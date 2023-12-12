@@ -1,0 +1,5 @@
+[Match]
+Type=wlan
+
+[Network]
+DHCP=ipv4
